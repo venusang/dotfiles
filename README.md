@@ -1,4 +1,4 @@
-# pwelch dotfiles
+# vang dotfiles
 
 ## Setup
 
