@@ -3,7 +3,7 @@
 ## Setup
 
 ```sh
-git clone https://github.com/pwelch/dotfiles.git ~/.dotfiles
+git clone https://github.com/venusang/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 
 brew bundle
